@@ -1,0 +1,19 @@
+{
+  "schemaVersion": 1,
+  "id": "autologin",
+  "version": "${version}",
+  "name": "AutoLogin",
+  "description": "Zapisz haslo w GUI (klawisz Z) i loguj sie automatycznie po wejsciu na serwer.",
+  "authors": ["AutoLogin"],
+  "license": "MIT",
+  "environment": "client",
+  "entrypoints": {
+    "client": ["pl.autologin.AutoLoginClient"]
+  },
+  "depends": {
+    "fabricloader": ">=0.16.0",
+    "minecraft": "~1.21.11",
+    "java": ">=21",
+    "fabric-api": "*"
+  }
+}

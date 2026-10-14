@@ -1,0 +1,18 @@
+{
+  "key.autologin.open": "Open AutoLogin",
+  "key.category.autologin.main": "AutoLogin",
+  "screen.autologin.title": "AutoLogin",
+  "screen.autologin.server": "Server: %s",
+  "screen.autologin.password": "Password",
+  "screen.autologin.command": "Command (%s = password)",
+  "screen.autologin.show": "Show",
+  "screen.autologin.hide": "Hide",
+  "screen.autologin.enabled_on": "Auto-login: ON",
+  "screen.autologin.enabled_off": "Auto-login: OFF",
+  "screen.autologin.save": "Save",
+  "screen.autologin.delete": "Delete",
+  "screen.autologin.close": "Close",
+  "message.autologin.no_server": "AutoLogin: join a multiplayer server first.",
+  "message.autologin.saved": "AutoLogin: saved for this server.",
+  "message.autologin.deleted": "AutoLogin: data for this server deleted."
+}
